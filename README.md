@@ -1,12 +1,14 @@
 <div align="center">
 
-# Smriti Verma
+<img src="assets/hero.svg" alt="Smriti Verma - AI/ML Engineer Banner" width="100%" />
 
-**AI/ML Engineer &middot; Generative AI &middot; Computer Vision &middot; Software Development**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-verma-a573222a7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SmritiVerma6725)
 [![Email](https://img.shields.io/badge/Email-smriti.6725%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smriti.6725@gmail.com)
+
+<br/>
 
 <p align="center">
   <em>AI/ML engineer building intelligent systems across Generative AI, Retrieval-Augmented Generation (RAG), computer vision, and workflow automation. Experienced in designing production-ready AI pipelines, LLM-orchestrated applications, and deep learning architectures with a focus on reliability, performance, and engineering rigor.</em>
@@ -14,15 +16,17 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-### 🔍 Current Focus & Technical Areas
+### 🔍 Engineering Focus & Technical Lifecycle
+
+<img src="assets/engineering-flow.svg" alt="Engineering Focus Lifecycle Diagram" width="100%" />
 
 - **Generative AI & RAG Systems:** Architecting context-aware LLM pipelines, prompt orchestration, and vector search with LangChain, ChromaDB, Hugging Face, and Groq.
 - **Computer Vision & Pose Estimation:** Developing landmark detection and contour refinement workflows using YOLO v11 segmentation and MediaPipe Pose.
 - **AI Infrastructure & Automation:** Engineering automated CI/CD pipelines, encryption-governed workflows, and automated dataset synthesis for model fine-tuning.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 💼 Experience
 
@@ -42,7 +46,7 @@
 - Developed a sentiment analysis pipeline achieving **85%** prediction accuracy using Python, NumPy, and Pandas.
 - Extracted and preprocessed large-scale unstructured web data using **Beautiful Soup** for sentiment classification workflows.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 🌟 Featured Project
 
@@ -50,9 +54,9 @@
 
 An end-to-end conversational AI application built with LangChain, LLaMA-3 (via Groq), Hugging Face embeddings, ChromaDB, and Gradio. The system enables document-grounded, context-aware dialogue over ingested mental health literature using a RetrievalQA architecture.
 
-```text
-PDF Ingestion ➔ Text Chunking ➔ Hugging Face Embeddings ➔ ChromaDB Vector Store ➔ Similarity Retrieval ➔ Groq / LLaMA-3 ➔ Context-Grounded Response
-```
+<img src="assets/rag-architecture.svg" alt="AI Therapist RAG Architecture Dataflow" width="100%" />
+
+<br/>
 
 - **Technical Highlights:**
   - Implements document chunking and vector indexing in ChromaDB for low-latency semantic similarity retrieval.
@@ -63,7 +67,7 @@ PDF Ingestion ➔ Text Chunking ➔ Hugging Face Embeddings ➔ ChromaDB Vector 
 
 [&rarr; View Repository](https://github.com/SmritiVerma6725/Ai-Therepist)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 🚀 Selected Projects
 
@@ -92,7 +96,7 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 `Python` &middot; `LangChain` &middot; `Prompt Engineering` &middot; `Jupyter Notebook`  
 [&rarr; View Repository](https://github.com/SmritiVerma6725/Chatbot-With-Conversational-History-Using-Langchain)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 🛠️ Technical Toolkit
 
@@ -119,7 +123,7 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
   </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 💡 Leadership & Entrepreneurship
 
@@ -128,7 +132,7 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 - **NextInCampus** &middot; *Co-Founder (2025–2026)*
   - Co-founded a peer-to-peer student-to-alumni referral and mentorship platform; engineered AI-based CV screening and candidate ranking algorithms.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 🎓 Education & Certification
 
@@ -137,7 +141,7 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 - **Indian Institute of Technology Delhi (IIT Delhi)**
   - *Certificate Programme in Digital VLSI Design* (Ongoing)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ### 📫 Connect with Me
 
