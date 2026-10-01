@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/hero.svg" alt="Smriti Verma - AI/ML Engineer Banner" width="100%" />
+<img src="./assets/hero.png" alt="Smriti Verma - AI/ML Engineer Banner" width="100%" />
 
 <br/>
 
@@ -16,23 +16,23 @@
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `01` &mdash; PROFILE
 
 AI/ML engineer focused on designing practical, production-ready intelligent systems. Experienced in developing Retrieval-Augmented Generation (RAG) pipelines, computer vision segmentation models, and automated engineering workflows. Combines machine learning foundations with rigorous software engineering practices to translate complex AI architectures into reliable, real-world tools.
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `02` &mdash; ENGINEERING FOCUS
 
-<img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/engineering-flow.svg" alt="Engineering Focus & Technical Lifecycle" width="100%" />
+<img src="./assets/engineering-flow.png" alt="Engineering Focus & Technical Lifecycle" width="100%" />
 
 - **Generative AI & RAG Systems:** Architecting context-aware LLM pipelines, prompt orchestration, and vector search with LangChain, ChromaDB, Hugging Face, and Groq.
 - **Computer Vision & Pose Estimation:** Developing landmark detection and contour refinement workflows using YOLO v11 segmentation and MediaPipe Pose.
 - **AI Infrastructure & Automation:** Engineering automated CI/CD pipelines, encryption-governed workflows, and automated dataset synthesis for model fine-tuning.
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `03` &mdash; EXPERIENCE
 
@@ -91,7 +91,7 @@ AI/ML engineer focused on designing practical, production-ready intelligent syst
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `04` &mdash; FEATURED PROJECT
 
@@ -99,7 +99,7 @@ AI/ML engineer focused on designing practical, production-ready intelligent syst
 
 An end-to-end conversational AI application built with LangChain, LLaMA-3 (via Groq), Hugging Face embeddings, ChromaDB, and Gradio. The system enables document-grounded, context-aware dialogue over ingested mental health literature using a RetrievalQA architecture.
 
-<img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/rag-architecture.svg" alt="AI Therapist RAG Architecture Dataflow" width="100%" />
+<img src="./assets/rag-architecture.png" alt="AI Therapist RAG Architecture Dataflow" width="100%" />
 
 <br/>
 
@@ -117,7 +117,7 @@ An end-to-end conversational AI application built with LangChain, LLaMA-3 (via G
 **Tech Stack:** `Python` &middot; `LangChain` &middot; `Groq / LLaMA-3` &middot; `RAG` &middot; `Hugging Face Embeddings` &middot; `ChromaDB` &middot; `Gradio` &middot; `RetrievalQA`<br/>
 [&rarr; View Repository](https://github.com/SmritiVerma6725/Ai-Therepist)
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `05` &mdash; SELECTED BUILDS
 
@@ -146,13 +146,13 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 `Python` &middot; `LangChain` &middot; `Prompt Engineering` &middot; `Jupyter Notebook`<br/>
 [&rarr; View Repository](https://github.com/SmritiVerma6725/Chatbot-With-Conversational-History-Using-Langchain)
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `06` &mdash; BUILDING WITH
 
-<img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/tech-stack.svg" alt="Visual Technology Matrix" width="100%" />
+<img src="./assets/tech-stack.png" alt="Visual Technology Matrix" width="100%" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `07` &mdash; GITHUB ACTIVITY
 
@@ -170,7 +170,7 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 
 > *"Building intelligent systems where data, models, and software meet."*
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `08` &mdash; BEYOND THE CODE
 
@@ -182,7 +182,7 @@ Facilitated mentorship, incubation access, and opportunity creation for **50+** 
 #### **NextInCampus** &middot; *Co-Founder (2025–2026)*
 Co-founded a peer-to-peer student-to-alumni referral and mentorship platform; engineered AI-based CV screening and candidate ranking algorithms.
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## `09` &mdash; EDUCATION & CERTIFICATION
 
@@ -192,7 +192,7 @@ Co-founded a peer-to-peer student-to-alumni referral and mentorship platform; en
 - **Indian Institute of Technology Delhi (IIT Delhi)**<br/>
   *Certificate Programme in Digital VLSI Design* (Ongoing)
 
-<p align="center"><img src="https://raw.githubusercontent.com/SmritiVerma6725/SmritiVerma6725/main/assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.png" alt="" width="100%" /></p>
 
 ## LET'S CONNECT
 
