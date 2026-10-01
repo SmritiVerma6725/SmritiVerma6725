@@ -150,32 +150,29 @@ Context-aware dialogue system leveraging LangChain's memory management to mainta
 
 ## `06` &mdash; BUILDING WITH
 
-<table>
-  <tr>
-    <td width="22%"><strong>Languages</strong></td>
-    <td><code>Python</code> &middot; <code>C</code> &middot; <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML & Vision</strong></td>
-    <td><code>Deep Learning</code> &middot; <code>Generative AI</code> &middot; <code>RAG</code> &middot; <code>LLMs</code> &middot; <code>NLP</code> &middot; <code>Computer Vision</code> &middot; <code>YOLO v11</code> &middot; <code>MediaPipe Pose</code> &middot; <code>Embedding Models</code></td>
-  </tr>
-  <tr>
-    <td><strong>Technologies & Frameworks</strong></td>
-    <td><code>LangChain</code> &middot; <code>Hugging Face</code> &middot; <code>ChromaDB</code> &middot; <code>Gradio</code> &middot; <code>Angular</code> &middot; <code>NumPy</code> &middot; <code>Pandas</code> &middot; <code>Beautiful Soup</code> &middot; <code>Selenium</code> &middot; <code>Docker</code> &middot; <code>Git / GitHub</code></td>
-  </tr>
-  <tr>
-    <td><strong>Core CS & Systems</strong></td>
-    <td><code>Data Structures & Algorithms</code> &middot; <code>Operating Systems</code> &middot; <code>DBMS</code> &middot; <code>Computer Networks</code> &middot; <code>Computer Architecture</code></td>
-  </tr>
-  <tr>
-    <td><strong>Methods & Product</strong></td>
-    <td><code>Agile / Scrum</code> &middot; <code>CI/CD Pipelines</code> &middot; <code>Product Development</code> &middot; <code>Stakeholder Management</code></td>
-  </tr>
-</table>
+<img src="assets/tech-stack.svg" alt="Visual Technology Matrix" width="100%" />
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-## `07` &mdash; BEYOND THE CODE
+## `07` &mdash; GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SmritiVerma6725&show_icons=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8&border_color=1E293B" alt="GitHub Overview Statistics" height="150" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmritiVerma6725&layout=compact&bg_color=090D16&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Top Languages" height="150" />
+
+<p align="center">
+  <small><em>Consistent building, learning, and shipping.</em></small>
+</p>
+
+</div>
+
+> *"Building intelligent systems where data, models, and software meet."*
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+## `08` &mdash; BEYOND THE CODE
 
 #### **KIIT Entrepreneurship Cell** &middot; *Senior Executive (2025–2026)*
 Facilitated mentorship, incubation access, and opportunity creation for **50+** startups in collaboration with KIIT Technology Business Incubator (KIIT-TBI).
@@ -187,7 +184,7 @@ Co-founded a peer-to-peer student-to-alumni referral and mentorship platform; en
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-## `08` &mdash; EDUCATION & CERTIFICATION
+## `09` &mdash; EDUCATION & CERTIFICATION
 
 - **Kalinga Institute of Industrial Technology (KIIT)**<br/>
   *B.Tech in Computer Science and System Engineering* (2023 – Present) &middot; Bhubaneswar, Odisha

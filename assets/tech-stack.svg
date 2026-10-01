@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 255" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gridBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="100%" stop-color="#141E33"/>
+    </linearGradient>
+
+    <linearGradient id="chipBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .cat-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 11.5px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      fill: #38BDF8;
+    }
+    .chip-bg {
+      fill: #111827;
+      stroke: #334155;
+      stroke-width: 1;
+      rx: 6;
+    }
+    .chip-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #E2E8F0;
+    }
+    .bullet {
+      fill: #818CF8;
+    }
+    .row-sep {
+      stroke: #1E293B;
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="846" height="251" rx="12" fill="url(#gridBg)" stroke="#1E293B" stroke-width="1.2"/>
+
+  <!-- Row 1: Languages -->
+  <g transform="translate(20, 20)">
+    <text x="0" y="16" class="cat-title">LANGUAGES</text>
+    <g transform="translate(140, 0)">
+      <!-- Python -->
+      <rect x="0" y="0" width="80" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="12" cy="12" r="3" fill="#38BDF8"/>
+      <text x="24" y="16" class="chip-text">Python</text>
+
+      <!-- C -->
+      <rect x="90" y="0" width="55" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="102" cy="12" r="3" fill="#38BDF8"/>
+      <text x="114" y="16" class="chip-text">C</text>
+
+      <!-- SQL -->
+      <rect x="155" y="0" width="65" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="167" cy="12" r="3" fill="#38BDF8"/>
+      <text x="179" y="16" class="chip-text">SQL</text>
+    </g>
+  </g>
+
+  <line x1="20" y1="58" x2="830" y2="58" class="row-sep"/>
+
+  <!-- Row 2: AI / ML & Vision -->
+  <g transform="translate(20, 72)">
+    <text x="0" y="16" class="cat-title">AI / ML &amp; VISION</text>
+    <g transform="translate(140, 0)">
+      <!-- Deep Learning -->
+      <rect x="0" y="0" width="112" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="12" cy="12" r="3" fill="#818CF8"/>
+      <text x="22" y="16" class="chip-text">Deep Learning</text>
+
+      <!-- RAG -->
+      <rect x="120" y="0" width="60" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="132" cy="12" r="3" fill="#818CF8"/>
+      <text x="142" y="16" class="chip-text">RAG</text>
+
+      <!-- LLMs -->
+      <rect x="188" y="0" width="65" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="200" cy="12" r="3" fill="#818CF8"/>
+      <text x="210" y="16" class="chip-text">LLMs</text>
+
+      <!-- NLP -->
+      <rect x="261" y="0" width="60" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="273" cy="12" r="3" fill="#818CF8"/>
+      <text x="283" y="16" class="chip-text">NLP</text>
+
+      <!-- YOLO v11 -->
+      <rect x="329" y="0" width="85" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="341" cy="12" r="3" fill="#818CF8"/>
+      <text x="351" y="16" class="chip-text">YOLO v11</text>
+
+      <!-- MediaPipe Pose -->
+      <rect x="422" y="0" width="125" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="434" cy="12" r="3" fill="#818CF8"/>
+      <text x="444" y="16" class="chip-text">MediaPipe Pose</text>
+
+      <!-- Embedding Models -->
+      <rect x="555" y="0" width="130" height="24" class="chip-bg" stroke="#818CF8" stroke-opacity="0.4"/>
+      <circle cx="567" cy="12" r="3" fill="#818CF8"/>
+      <text x="577" y="16" class="chip-text">Embedding Models</text>
+    </g>
+  </g>
+
+  <line x1="20" y1="110" x2="830" y2="110" class="row-sep"/>
+
+  <!-- Row 3: Frameworks & Data -->
+  <g transform="translate(20, 124)">
+    <text x="0" y="16" class="cat-title">FRAMEWORKS</text>
+    <g transform="translate(140, 0)">
+      <!-- LangChain -->
+      <rect x="0" y="0" width="95" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="12" cy="12" r="3" fill="#C084FC"/>
+      <text x="22" y="16" class="chip-text">LangChain</text>
+
+      <!-- Hugging Face -->
+      <rect x="103" y="0" width="105" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="115" cy="12" r="3" fill="#C084FC"/>
+      <text x="125" y="16" class="chip-text">Hugging Face</text>
+
+      <!-- ChromaDB -->
+      <rect x="216" y="0" width="95" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="228" cy="12" r="3" fill="#C084FC"/>
+      <text x="238" y="16" class="chip-text">ChromaDB</text>
+
+      <!-- Gradio -->
+      <rect x="319" y="0" width="75" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="331" cy="12" r="3" fill="#C084FC"/>
+      <text x="341" y="16" class="chip-text">Gradio</text>
+
+      <!-- Angular -->
+      <rect x="402" y="0" width="80" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="414" cy="12" r="3" fill="#C084FC"/>
+      <text x="424" y="16" class="chip-text">Angular</text>
+
+      <!-- NumPy -->
+      <rect x="490" y="0" width="75" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="502" cy="12" r="3" fill="#C084FC"/>
+      <text x="512" y="16" class="chip-text">NumPy</text>
+
+      <!-- Pandas -->
+      <rect x="573" y="0" width="75" height="24" class="chip-bg" stroke="#C084FC" stroke-opacity="0.4"/>
+      <circle cx="585" cy="12" r="3" fill="#C084FC"/>
+      <text x="595" y="16" class="chip-text">Pandas</text>
+    </g>
+  </g>
+
+  <line x1="20" y1="162" x2="830" y2="162" class="row-sep"/>
+
+  <!-- Row 4: Engineering & Tools -->
+  <g transform="translate(20, 176)">
+    <text x="0" y="16" class="cat-title">ENGINEERING</text>
+    <g transform="translate(140, 0)">
+      <!-- Beautiful Soup -->
+      <rect x="0" y="0" width="115" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="12" cy="12" r="3" fill="#38BDF8"/>
+      <text x="22" y="16" class="chip-text">Beautiful Soup</text>
+
+      <!-- Selenium -->
+      <rect x="123" y="0" width="85" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="135" cy="12" r="3" fill="#38BDF8"/>
+      <text x="145" y="16" class="chip-text">Selenium</text>
+
+      <!-- Docker -->
+      <rect x="216" y="0" width="75" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="228" cy="12" r="3" fill="#38BDF8"/>
+      <text x="238" y="16" class="chip-text">Docker</text>
+
+      <!-- Git / GitHub -->
+      <rect x="299" y="0" width="105" height="24" class="chip-bg" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <circle cx="311" cy="12" r="3" fill="#38BDF8"/>
+      <text x="321" y="16" class="chip-text">Git / GitHub</text>
+    </g>
+  </g>
+
+  <line x1="20" y1="214" x2="830" y2="214" class="row-sep"/>
+
+  <!-- Row 5: Core CS & Systems -->
+  <g transform="translate(20, 224)">
+    <text x="0" y="14" class="cat-title" fill="#64748B">FOUNDATIONS</text>
+    <text x="140" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#94A3B8">
+      Data Structures &amp; Algorithms &middot; Operating Systems &middot; DBMS &middot; Computer Networks &middot; Computer Architecture
+    </text>
+  </g>
+</svg>
